@@ -72,3 +72,6 @@ node --test tests/*.test.mjs
 Собственный код, документация, примеры и тесты проекта выпущены под лицензией **[WTFPL](LICENSE)**.
 
 Boost.Multiprecision, используемый в C++-реализации, остаётся под лицензией Boost Software License 1.0 — см. [`THIRD_PARTY.md`](THIRD_PARTY.md) и [`LICENSES/BSL-1.0.txt`](LICENSES/BSL-1.0.txt).
+
+
+ Данный ЯП был сделан в шутку за 2 дня через вайбкод. Не воспринимайте в серьёз.
