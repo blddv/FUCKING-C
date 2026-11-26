@@ -1,0 +1,51 @@
+# C++ build products
+/cpp/build/
+/cpp/cmake-build-*/
+/cpp/CMakeFiles/
+/cpp/CMakeCache.txt
+/cpp/Testing/
+/cpp/cmake_install.cmake
+/cpp/CTestTestfile.cmake
+/cpp/CPackConfig.cmake
+/cpp/CPackSourceConfig.cmake
+/cpp/install_manifest.txt
+/cpp/_CPack_Packages/
+/cpp/fc
+/cpp/fc.exe
+/cpp/fc_tests
+/cpp/fc_tests.exe
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.pdb
+*.ilk
+*.d
+*.dSYM/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Node.js
+node_modules/
+
+# Distribution output
+/dist/
+/out/
+
+# Local files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.cache/
+.idea/
+.env
+.env.*

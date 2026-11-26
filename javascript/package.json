@@ -1,0 +1,14 @@
+{
+  "name": "fucking-c",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "An esolang written entirely with variations of C, with a CLI interpreter.",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "cli": "node cli.mjs"
+  }
+}
